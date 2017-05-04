@@ -11,6 +11,6 @@ setup(name='dockerspawner_usermap',
       url='http://github.com/kayibal/dockerspawner_usermap',
       author='Alan Höng',
       author_email='alan.f.hoeng@gmail.com',
-      install_requires=["dockerspwaner"],
+      install_requires=["dockerspawner"],
       packages=packages,
       zip_safe=False)
